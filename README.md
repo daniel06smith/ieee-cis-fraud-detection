@@ -14,6 +14,7 @@ ensemble, and MLflow experiment tracking.
 | Weighted Ensemble | 0.8773 | 0.5322 |
 
 **Threshold-optimized F1: 0.530** (threshold = 0.255, vs 0.481 at default 0.5)
+**Kaggle Leaderboard:** Public AUC 0.9225 | Private AUC 0.9066
 
 ## Dataset
 
